@@ -1,0 +1,16 @@
+[
+{
+  "modid": "templatemod",
+  "name": "Template Mod",
+  "description": "This is only a template",
+  "version": "0.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CTXz"],
+  "credits": "TheGreyGhost",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
